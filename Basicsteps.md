@@ -8,4 +8,4 @@
 **Note if you don't have a server click the + button and make one**
 Thats it now run the Bot
 
-Image Instructions in 
+Image Instructions in https://github.com/techtimefor/How-to-make-an-simple-Discord-Bot/tree/master/steps
