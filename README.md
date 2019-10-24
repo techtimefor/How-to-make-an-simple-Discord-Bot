@@ -3,8 +3,8 @@ ________________________________________________________________________________
 Im techtimefor#1936 on Discord
 _____________________________________________________________________________________________________
 
-1. Follow the steps in https://github.com/techtimefor/How-to-make-an-simple-Discord-Bot/Setting-up-Nodejs.md
-2. Follow the steps in https://github.com/techtimefor/How-to-make-an-simple-Discord-Bot/Basicsteps.md
+1. Follow the steps in https://github.com/techtimefor/How-to-make-an-simple-Discord-Bot/blob/master/Setting%20up%20Nodejs.md
+2. Follow the steps in https://github.com/techtimefor/How-to-make-an-simple-Discord-Bot/blob/master/Basicsteps.md
 3. Clone and Download this to your PC 
 Windows ==> Locate to where you cloned this then Extract the .zip open it and finally when in the folder hold shift and right
 click at the same time and click Open with Command Promnt
