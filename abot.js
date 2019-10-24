@@ -32,6 +32,6 @@ client.on('message', message => {
     
     client.on('message', message => {
     if (message.content === 'An image') {
-    message.channel.send('Here is the image')
+    message.channel.send('Here is the image https://github.com/techtimefor/How-to-make-an-simple-Discord-Bot/blob/master/steps/Inviting%20the%20Bot.png?raw=true')
     }
     });
