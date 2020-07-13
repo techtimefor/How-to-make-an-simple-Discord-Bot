@@ -12,7 +12,7 @@ console.log('Im online yay'); //Make the Bot say if it connected to Discord
 client.on('message', message => {
     if (message.content === 'An Embed') {
       // Remove the "var" line; it isn't necessary.
-      let embed = new Discord.RichEmbed()
+      let embed = new Discord.MessageEmbed()
       // Replace "message.member" with "message.author"
     .setTitle('An Title')
     .setDescription('Some Description')
